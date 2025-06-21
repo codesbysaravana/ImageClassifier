@@ -1,0 +1,4 @@
+torch 
+torchvision # Essential for building and using PyTorch models, including pre-trained computer vision models and image transformations.
+streamlit 
+Pillow #For image processing, used by torchvision.transforms
